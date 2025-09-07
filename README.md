@@ -1,2 +1,3 @@
 # git-practice
-practice the git configurations 
+practice the git configurations <br>
+author = Ananya 
